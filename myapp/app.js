@@ -43,3 +43,5 @@ app.get('/bacheca', (req, res) => {
 app.listen(port, () => {
     console.log(`posts at: http://localhost:3000/bacheca`)
 })
+
+// npm run watch
